@@ -13,6 +13,7 @@ Fraud Detection: Detect patterns indicating fraudulent claims.
 Cost Forecasting: Predict future claim costs using demographics and health data.
 
 The study aims to support data-driven decisions, optimize resources, and reduce financial risk for insurance companies.
+
 #objective
 Identify Key Risk Factors: Determine the most influential variables predicting the likelihood of a claim to assist actuaries.
 
