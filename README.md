@@ -1,5 +1,6 @@
 # Statistical-Insights-into-Health-Insurance-Claims-and-Premiums
 #introduction
+
 This project analyzes health insurance claim data using Generalized Linear Models (GLMs) and Multiple Logistic Regression to support insurers in risk management and pricing decisions. The main objectives are:
 
 Risk Prediction: Identify factors affecting claim frequency and amount.
@@ -15,6 +16,7 @@ Cost Forecasting: Predict future claim costs using demographics and health data.
 The study aims to support data-driven decisions, optimize resources, and reduce financial risk for insurance companies.
 
 #objective
+
 Identify Key Risk Factors: Determine the most influential variables predicting the likelihood of a claim to assist actuaries.
 
 Premium Adjustment: Set a base premium and modify it based on individual risk categories (Low, Medium, High).
