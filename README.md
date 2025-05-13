@@ -17,15 +17,15 @@ The study aims to support data-driven decisions, optimize resources, and reduce 
 
 # objective
 
-Identify Key Risk Factors: Determine the most influential variables predicting the likelihood of a claim to assist actuaries.
+1.Identify Key Risk Factors: Determine the most influential variables predicting the likelihood of a claim to assist actuaries.
 
-Premium Adjustment: Set a base premium and modify it based on individual risk categories (Low, Medium, High).
+2.Premium Adjustment: Set a base premium and modify it based on individual risk categories (Low, Medium, High).
 
-Variable Association: Use Welch’s two-sample t-test to assess relationships between key variables.
+3.Variable Association: Use Welch’s two-sample t-test to assess relationships between key variables.
 
-Underdispersion Handling: Apply a quasi-likelihood approach for skewed response data with constant coefficient of variation.
+4.Underdispersion Handling: Apply a quasi-likelihood approach for skewed response data with constant coefficient of variation.
 
-Fraud Detection: Detect suspicious claim patterns to identify potential fraud.
+5.Fraud Detection: Detect suspicious claim patterns to identify potential fraud.
 
 
 
